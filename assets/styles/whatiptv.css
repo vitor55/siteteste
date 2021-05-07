@@ -1,0 +1,55 @@
+#whatiptv{
+    padding-bottom: 70px;
+}
+#whatiptv-subcontent1, #whatiptv-subcontent2{
+
+    background: none;
+    padding-bottom: 40px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#whatiptv-subcontent1 p, #whatiptv-subcontent2 p{
+    color: #d2d2d2;
+    font-family: inter-light;
+    padding: 0px;
+    margin: 0;
+    padding-bottom: 0px
+}
+.container-devices{
+
+    width: 50%;
+    height: auto;
+    text-align: center;
+    float: left;
+    padding-bottom: 40px;
+    
+}
+.container-devices p {
+    margin: 0px;
+}
+.icon-device{
+    margin: 0 auto;
+    padding-bottom: 20px;
+    width: auto;
+    height: 10%;
+}
+
+.icon-device img{
+   height: 100%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+#container-device-1{
+    width: 47%;
+}
+.text-device p{
+    font-family: inter-light;
+}
+.text-device p span{
+    font-family: inter-bold;
+}
+#whatiptv-container-screen{
+    padding-top: 25px;
+}
